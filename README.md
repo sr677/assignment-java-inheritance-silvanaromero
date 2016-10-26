@@ -1,1 +1,1 @@
-Inheritance hw2
+hw 2 inheritance
